@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Foodies</string>
+
+    <string name="selectFood">Подобрать блюда</string>
+    <string name="ready">Готово</string>
+    <string name="filteredFoodNotFound">Таких блюд нет :( \nПопробуйте изменить фильтры</string>
+    <string name="empty">Пустой</string>
+    <string name="searchFood">Найти блюдо</string>
+    <string name="enterNameOfFood">Введите название блюда, которое ищете</string>
+    <string name="noIntenerConnection">Нет соединения с интернетом</string>
+    <string name="cart">Корзина</string>
+    <string name="orderFor">Заказать за</string>
+    <string name="cartIsEmpry">Пусто, выберите блюда в каталоге :)</string>
+    <string name="addToCart">В корзину за</string>
+    <string name="addedToCart">Добавлено в корзину</string>
+    <string name="alreadyAddedToCart">Уже добавлено в корзину</string>
+    <string name="weight">Вес</string>
+    <string name="productEnergy">Энерг. ценность</string>
+    <string name="kcal">Ккал</string>
+    <string name="fats">Жиры</string>
+    <string name="reload">Перезагрузить</string>
+    <string name="error">Ошибка</string>
+</resources>
